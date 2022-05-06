@@ -5,6 +5,7 @@ Tools to help you develop
 ## TextSet
 
 ### usage)
+```bash
 python TextSet.py \
 '
 red
@@ -16,10 +17,10 @@ black
 red-mango
 green
 '
-
+```
 
 ### output)
-
+```
 ########### Set A ################	//
 blue
 green
@@ -47,4 +48,4 @@ black
 blue
 red
 red-mango
-
+```
